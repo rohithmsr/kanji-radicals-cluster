@@ -11,9 +11,7 @@ A repository with an excel file to segregate Kanjis based on radicals. This is a
 - Thus, you can revise the kanjis learnt when you come back again.
 
 # Preview:
- <p align="center">
-  <img width="WIDTH" height="HEIGHT" src="LINK HERE" alt="Preview Demo" >
- </p>
+ [Click here](https://drive.google.com/file/d/1vf74QolIof8CTYuzJ43qUANMVnNcdlOo/view?usp=sharing) to view
 
 # Note:
 - SIMPLE LIFE HACK: If you are not comfortable with Kanji keyboard, search for the kanji in google, copy and paste. Tada!
