@@ -5,7 +5,7 @@ A repository with an excel file to segregate Kanjis based on radicals. This is a
 - Download one of the files from the links given below 
     - [Microsoft Excel file](./ms-excel/kodo-senshi-kanji-radicals-cluster-ms-excel.xlsx)
     - [Browser links](./download-links.txt)
-- Find the radicals of the kanji from this website [JLearn.net](https://jlearn.net/)
+- Find the radicals of the kanji from this website [Jisho](https://jisho.org/)
 - Search for the radicals from the list given in "radicals" sheet and go to "kanji" sheet to add that kanji to its corresponding radical columns given in the sheet.
 - You can navigate to cells just by a click. Please refer to the preview video below.
 - Thus, you can revise the kanjis learnt when you come back again.
